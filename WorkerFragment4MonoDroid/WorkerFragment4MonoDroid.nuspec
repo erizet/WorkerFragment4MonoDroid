@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.1.0.0</version>
+    <title>WorkerFragment4MonoDroid</title>
+    <authors>Erik Zetterqvist</authors>
+    <owners>Erik Zetterqvist</owners>
+    <projectUrl>https://github.com/erizet/WorkerFragment4MonoDroid</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Implementation of worker fragment pattern.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Android Fragment</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Core" targetFramework="MonoAndroid" />
+      <frameworkAssembly assemblyName="Mono.Android" targetFramework="MonoAndroid" />
+    </frameworkAssemblies>
+
+  </metadata>
+
+  <files>
+	<file target="lib/MonoAndroid" src="bin/Release/WorkerFragment4MonoDroid.dll" />
+  </files>
+
+</package>
+

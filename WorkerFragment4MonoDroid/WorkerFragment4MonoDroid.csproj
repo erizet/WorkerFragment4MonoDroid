@@ -49,9 +49,11 @@
     <Compile Include="IWorker.cs" />
     <Compile Include="WorkerActivity.cs" />
     <Compile Include="WorkerFragment.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
+    <None Include="WorkerFragment4MonoDroid.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
